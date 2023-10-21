@@ -1,0 +1,17 @@
+{
+    "signup_name": "Test",
+    "password": "Testing.1234",
+    "birth_day": "31",
+    "birth_month": "12",
+    "birth_year": "1900",
+    "first_name": "Allan",
+    "last_name": "Bell",
+    "company": "ABC company",
+    "address1": "97 A/F Building",
+    "address2": "Owl town",
+    "country": "New Zealand",
+    "state": "US",
+    "city": "Florida",
+    "zipcode": 7000,
+    "phone": "0123456789"
+}
