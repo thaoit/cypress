@@ -7,4 +7,12 @@ module.exports = defineConfig({
     },
     baseUrl: 'https://automationexercise.com/'
   },
+  reporter: 'mochawesome',
+  reporterOptions: {
+    reportFilename: "[status]_[datetime]-[name]-report",
+    timestamp: "longDate",
+    reportDir: 'cypress/results',
+    overwrite: true,
+    html: true,
+  },
 });

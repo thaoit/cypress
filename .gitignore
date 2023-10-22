@@ -1,3 +1,6 @@
 node_modules/
 cypress/videos/
 cypress/screenshots/
+cypress/results/
+mochawesome-report/
+results-merge.json
